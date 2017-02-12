@@ -1,7 +1,7 @@
 This is dataset Animal-143, which contains semantic relatedness 
 of 143 pairs of common animal names (92 different animals) including 
 mammals, birds, insects and marine animals. Each name is in wordnet 
-format with a wordnet id.
+format with a wordnet-id.
 
 The relatedness score of each pair has been evaluated by 9 persons, and 
 the average is used as the human judgement. The range of score is from 
